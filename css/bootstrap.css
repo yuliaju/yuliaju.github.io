@@ -44,12 +44,15 @@ template {
   display: none;
 }
 a {
-  text-decoration: underline;
   background-color: transparent;
+}
+a:visited,
+a:link { 
+  text-decoration: underline; 
 }
 a:active,
 a:hover {
-  outline: 0;
+  color: #0085a1;
 }
 abbr[title] {
   border-bottom: 1px dotted;
