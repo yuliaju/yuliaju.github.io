@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-09T17:10:10-05:00</updated><id>http://localhost:4000//</id><title type="html">Julia Yu</title><entry><title type="html">Summer’s Links</title><link href="http://localhost:4000/posts/2016/09/20/summers-links.html" rel="alternate" type="text/html" title="Summer's Links" /><published>2016-09-20T00:00:00-04:00</published><updated>2016-09-20T00:00:00-04:00</updated><id>http://localhost:4000/posts/2016/09/20/summers-links</id><content type="html" xml:base="http://localhost:4000/posts/2016/09/20/summers-links.html">&lt;p&gt;&lt;em&gt;Articles:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://www.nytimes.com/2016/06/15/business/international/china-disney.html&quot;&gt;look&lt;/a&gt; into the history of Disney’s partnership with China’s Communist Party and the negotiations that went into the Shanghai Disney Resort that opened in June 2016.&lt;/li&gt;
+  &lt;li&gt;Olympic &lt;a href=&quot;http://well.blogs.nytimes.com/2016/08/19/for-the-olympian-gwen-jorgensen-the-triathlon-is-a-mental-race/&quot;&gt;triathlete uses VR&lt;/a&gt; for mental training (and wins gold in Rio).&lt;/li&gt;
+  &lt;li&gt;Good (and inspiring) descriptions of what &lt;a href=&quot;http://mindingourway.com/desperation/&quot;&gt;desperation&lt;/a&gt; feels like and the stigmas associated with caring hard.&lt;/li&gt;
+  &lt;li&gt;My favorite read of the entire summer: a &lt;a href=&quot;http://blogs.scientificamerican.com/cross-check/scott-aaronson-answers-every-ridiculously-big-question-i-throw-at-him/&quot;&gt;Scientific American interview with Scott Aaronson&lt;/a&gt;. Goes into quantum computing, P vs. NP, his idea of a utopia, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mcgilldaily.com/2014/11/everything-problematic/&quot;&gt;Criticism of “radical leftist, anti-oppressive politics”&lt;/a&gt; from a former student activist at McGill. Aligns with my feelings on SJWs.&lt;/li&gt;
+  &lt;li&gt;An &lt;a href=&quot;https://meteuphoric.wordpress.com/2016/06/26/are-you-missing-universal-human-skills/&quot;&gt;explanation&lt;/a&gt; of why you might be missing some common human skills.&lt;/li&gt;
+  &lt;li&gt;Two ways to think about history and progress: &lt;a href=&quot;http://noahpinionblog.blogspot.co.uk/2015/09/whig-vs-haan.html&quot;&gt;Whig and Han&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://www.nytimes.com/2016/07/26/magazine/my-father-the-youtube-star.html&quot;&gt;touching article&lt;/a&gt; about how food and cooking videos on YouTube improved a father-son relationship.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Miscellaneous:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ex_Machina_(film)&quot;&gt;Ex Machina&lt;/a&gt; - &lt;a href=&quot;http://www.yudkowsky.net/singularity/aibox/&quot;&gt;AI-Box Experiment&lt;/a&gt; meets love story. Would recommend if you would like to be inspired to think more about (un)friendly AI.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Little_Prince_(2015_film)&quot;&gt;The Little Prince (2015 film)&lt;/a&gt; - Disclaimer: I’ve never read the corresponding book. However, I would strongly recommend this movie to all my friends. It was great at triggering strong emotions.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joinhoney.com/ref/kxfcrt&quot;&gt;(My referral link to) Honey&lt;/a&gt; - “a browser extension that automatically finds and applies coupon codes at checkout with a single click,” an easy way to save money while shopping online.&lt;/li&gt;
+  &lt;li&gt;A website full of restaurant critic &lt;a href=&quot;http://www.andyhayler.com/&quot;&gt;Andy Hayler’s reviews&lt;/a&gt; of top restaurants. Interesting!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;A catalog of everything I read &lt;a href=&quot;https://docs.google.com/document/d/1l2MdusIdXU5ExDJNS-LO0pKvzA9uMrBZgs5zMsR1n2s/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Articles:</summary></entry><entry><title type="html">Internalization</title><link href="http://localhost:4000/posts/2016/09/09/internalization.html" rel="alternate" type="text/html" title="Internalization" /><published>2016-09-09T00:00:00-04:00</published><updated>2016-09-09T00:00:00-04:00</updated><id>http://localhost:4000/posts/2016/09/09/internalization</id><content type="html" xml:base="http://localhost:4000/posts/2016/09/09/internalization.html">&lt;p&gt;When I started to code, the actual process of writing the code was effortful, and translating between my thoughts and the programming language was the bottleneck. It wasn’t until after I had to code full-time that I was able to internalize this aspect of coding, after which the effortful step became effortless, as responsibility for handling it shifted from System 2 to System 1. Internalizing the translation process freed up my attention so that I could think about optimizing for code quality and elegance. This led to beliefs about programming aesthetics that I couldn’t have generated when writing the code was my primary concern.&lt;/p&gt;
+
+&lt;p&gt;This transition - from using System 2 to System 1 - is a general pattern that I’ve observed while learning. For instance, when I started doing improv comedy, coming up with my next line was the effortful task. Character and plot development, as well as thinking about higher level humor (like finding new &lt;a href=&quot;http://improvencyclopedia.org/glossary/Finding_the_Game.html&quot;&gt;games&lt;/a&gt;), were an afterthought. I had to internalize the basics before I was able to see a discrete improvement, or even have the attention to attempt such an improvement. Part of the reason for this is that attention and working memory are finite, so the only way to think more thoughts at once is to outsource some of those thoughts to System 1.&lt;/p&gt;
+
+&lt;p&gt;The vague feeling of hard things becoming easy, or foreign things becoming second-nature, is what I mean by “internalize.” I wish I could use “intuitionizing,” if that were actually a word; “leveling up” is also a related concept.&lt;/p&gt;
+
+&lt;p&gt;I think that internalization is a good way to model the learning process. It explains why “a ha” moments happen and why it can retrospectively feel like you should have been able to have certain updates earlier (e.g., realizing/propagating implications, improving a skill, etc.).&lt;/p&gt;</content><summary type="html">When I started to code, the actual process of writing the code was effortful, and translating between my thoughts and the programming language was the bottleneck. It wasn’t until after I had to code full-time that I was able to internalize this aspect of coding, after which the effortful step became effortless, as responsibility for handling it shifted from System 2 to System 1. Internalizing the translation process freed up my attention so that I could think about optimizing for code quality and elegance. This led to beliefs about programming aesthetics that I couldn’t have generated when writing the code was my primary concern.</summary></entry><entry><title type="html">April + May’s Links</title><link href="http://localhost:4000/posts/2016/06/02/april-mays-links.html" rel="alternate" type="text/html" title="April + May's Links" /><published>2016-06-02T00:00:00-04:00</published><updated>2016-06-02T00:00:00-04:00</updated><id>http://localhost:4000/posts/2016/06/02/april-mays-links</id><content type="html" xml:base="http://localhost:4000/posts/2016/06/02/april-mays-links.html">&lt;p&gt;&lt;em&gt;Links:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Food follows technology? Sonic creates &lt;a href=&quot;http://www.adweek.com/adfreak/sonic-making-awesome-square-shakes-designed-instagram-sold-through-instagram-170602&quot;&gt;square shakes&lt;/a&gt; for Coachella, inspired by Instagram and sold exclusively on Instagram.&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://slatestarcodex.com/2016/04/27/book-review-albions-seed/&quot;&gt;review&lt;/a&gt; of David Fischer’s &lt;em&gt;Albion’s Seed&lt;/em&gt;. Super interesting explanation of how 17&lt;sup&gt;th&lt;/sup&gt; century American colonists shaped modern day regional stereotypes.&lt;/li&gt;
+  &lt;li&gt;Panama Papers whistleblower’s &lt;a href=&quot;https://panamapapers.icij.org/20160506-john-doe-statement.html&quot;&gt;statement&lt;/a&gt; calls for changes in democracy and capitalism, and shares a powerful message about censorship: “we live in a time of inexpensive, limitless digital storage and fast internet connections that transcend national boundaries…from start to finish, inception to global media distribution, the next revolution will be digitized. Or perhaps it has already begun.”&lt;/li&gt;
+  &lt;li&gt;Two great posts from Benedict Evans on history and technology. The &lt;a href=&quot;http://ben-evans.com/benedictevans/2016/4/20/the-best-is-the-last&quot;&gt;first&lt;/a&gt; describes how “technology often produces its best results just when it’s ready to be replaced,” and the &lt;a href=&quot;http://ben-evans.com/benedictevans/2016/5/2/inevitability-in-technology&quot;&gt;second&lt;/a&gt; gives examples of applying counterfactuals to technology.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deepdotweb.com/2016/05/20/lsd-saved-marriage/&quot;&gt;“LSD Saved My Marriage”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;http://priceonomics.com/the-man-who-got-no-whammies/&quot;&gt;story&lt;/a&gt; of how one crackpot noticed a pattern in the game show &lt;em&gt;Press Your Luck&lt;/em&gt; and used it to win $110,237 (in 1984).&lt;/li&gt;
+  &lt;li&gt;Clear &lt;a href=&quot;https://frankdevita.wordpress.com/2012/08/06/vanity-in-nietzsches-beyond-good-and-evil/&quot;&gt;definitions of arrogance and vanity&lt;/a&gt;, based on the distinction between noblemen and ordinary men in Nietzsche’s &lt;em&gt;Beyond Good and Evil&lt;/em&gt;. (H/t Sonia)&lt;/li&gt;
+  &lt;li&gt;Free supercharging not included with Tesla’s &lt;a href=&quot;http://www.latimes.com/business/autos/la-fi-hy-tesla-model-3-chargers-20160601-snap-story.html&quot;&gt;Model 3&lt;/a&gt;, to lower costs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;A catalog of everything I read &lt;a href=&quot;https://docs.google.com/document/d/1l2MdusIdXU5ExDJNS-LO0pKvzA9uMrBZgs5zMsR1n2s/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Links:</summary></entry><entry><title type="html">March’s Links</title><link href="http://localhost:4000/posts/2016/04/04/marchs-links.html" rel="alternate" type="text/html" title="March's Links" /><published>2016-04-04T00:00:00-04:00</published><updated>2016-04-04T00:00:00-04:00</updated><id>http://localhost:4000/posts/2016/04/04/marchs-links</id><content type="html" xml:base="http://localhost:4000/posts/2016/04/04/marchs-links.html">&lt;p&gt;&lt;em&gt;Links:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An awesome &lt;a href=&quot;http://cs.brynmawr.edu/cs371/storrs.html&quot;&gt;theory of humor&lt;/a&gt; that relates it to mental updating. (H/t Dipo)&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://lesswrong.com/lw/f1/beware_trivial_inconveniences/&quot;&gt;LessWrong post&lt;/a&gt; that exemplifies the importance of activation energy.&lt;/li&gt;
+  &lt;li&gt;YC’s terrible &lt;a href=&quot;https://blog.ycombinator.com/y-sequoia-combination&quot;&gt;April Fools’ prank&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.yegor256.com/2015/12/16/investors-are-too-scared.html&quot;&gt;Background&lt;/a&gt; behind &lt;a href=&quot;http://www.seedramp.com/&quot;&gt;SeedRamp&lt;/a&gt;, a fund that seeks to address the problems resulting from the fact that “investors are cowards”&lt;/li&gt;
+  &lt;li&gt;This &lt;a href=&quot;http://www.wired.com/2016/03/watch-astronaut-answer-kids-tough-questions-space-aliens/&quot;&gt;video&lt;/a&gt; of an astronaut answering children’s questions about space is so adorable.&lt;/li&gt;
+  &lt;li&gt;An absurdly hilarious &lt;a href=&quot;http://web.archive.org/web/20130823233056/http://azbyc3.xanga.com/441508273/fuck-the-police/&quot;&gt;blog post&lt;/a&gt; from Ilya Gekhtman, the UChicago math grad student from this &lt;a href=&quot;https://www.youtube.com/watch?v=bw8UmlF-Msw&quot;&gt;video&lt;/a&gt;. (H/t &lt;a href=&quot;https://www.quora.com/profile/Alex-Kuang-Chen&quot;&gt;Alex K. Chen&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;A catalog of everything I read &lt;a href=&quot;https://docs.google.com/document/d/1l2MdusIdXU5ExDJNS-LO0pKvzA9uMrBZgs5zMsR1n2s/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Links:</summary></entry><entry><title type="html">Useful Beliefs</title><link href="http://localhost:4000/posts/2016/03/25/useful-beliefs.html" rel="alternate" type="text/html" title="Useful Beliefs" /><published>2016-03-25T00:00:00-04:00</published><updated>2016-03-25T00:00:00-04:00</updated><id>http://localhost:4000/posts/2016/03/25/useful-beliefs</id><content type="html" xml:base="http://localhost:4000/posts/2016/03/25/useful-beliefs.html">&lt;p&gt;&lt;em&gt;“All generalizations are dangerous, even this one.”&lt;/em&gt; — Alexandre Dumas&lt;/p&gt;
+
+&lt;p&gt;Global policies are useful. By caching computations and forming habits, you can reduce attentional drains. For instance, choosing to wear the same thing everyday saves you the cognitive effort of always making that decision.&lt;/p&gt;
+
+&lt;p&gt;But caching decisions like this has an obvious flaw: adaptability is necessary! If you’re attending a formal event, you should think twice before putting on your uniform of t-shirt and jeans. The same is true for the global policy of epistemic rationality. Always trying to update towards more accurate beliefs about the world is great in theory, but intentionally not doing so (i.e., self-delusion) is often useful in practice.&lt;/p&gt;
+
+&lt;p&gt;Examples: confidently flirting even if your prior probability of success is low; internalizing growth mindset even if you believe intelligence is fixed; acting as if the other party likes you in a sales meeting even if you’ve never met them before; rushing to catch the train even if Google Maps says you won’t make it in time; not revealing your desperation in a job interview even if you’ve been unemployed for months.&lt;/p&gt;
+
+&lt;p&gt;There’s a difference between true beliefs and useful beliefs, and from a utility-maximizing perspective, holding useful beliefs (regardless of their validity!) is preferable. This line of reasoning is also why I think being knowingly hypocritical can be beneficial.&lt;/p&gt;</content><summary type="html">“All generalizations are dangerous, even this one.” — Alexandre Dumas</summary></entry><entry><title type="html">February’s Links</title><link href="http://localhost:4000/posts/2016/03/02/februarys-links.html" rel="alternate" type="text/html" title="February's Links" /><published>2016-03-02T00:00:00-05:00</published><updated>2016-03-02T00:00:00-05:00</updated><id>http://localhost:4000/posts/2016/03/02/februarys-links</id><content type="html" xml:base="http://localhost:4000/posts/2016/03/02/februarys-links.html">&lt;p&gt;&lt;em&gt;Articles:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How Zenefits Crashed Back Down To Earth (&lt;a href=&quot;http://www.buzzfeed.com/williamalden/how-high-flying-zenefits-fell-to-earth#.efo2RkRO6w&quot;&gt;Buzzfeed&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;How We Run Discussions at Stanford EA (&lt;a href=&quot;http://effective-altruism.com/ea/hl/how_we_run_discussions_at_stanford_ea/&quot;&gt;Effective Altruism Forum&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Ready to prototype from within Sketch? Then say hello to Silver (Medium, &lt;a href=&quot;https://medium.com/sketch-app-sources/ready-to-prototype-from-within-sketch-then-say-hello-to-silver-a9e68b0ce3db#.bybs8p25m&quot;&gt;@marcandrew&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;A Message to Our Customers (&lt;a href=&quot;http://www.apple.com/customer-letter/&quot;&gt;Apple&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Before You Get Too Excited About That GitHub Study… (&lt;a href=&quot;http://slatestarcodex.com/2016/02/12/before-you-get-too-excited-about-that-github-study/&quot;&gt;Slate Star Codex&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;This Guy’s Eaten Nothing but Raw Meat for Five Years (&lt;a href=&quot;http://www.vice.com/read/this-guy-has-eaten-nothing-but-raw-meat-for-five-years&quot;&gt;Vice&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Researchers extend lifespan by as much as 35 percent in mice (&lt;a href=&quot;http://medicalxpress.com/news/2016-02-lifespan-percent-mice.html&quot;&gt;Medical Xpress&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Three and a half degrees of separation (&lt;a href=&quot;https://research.facebook.com/blog/three-and-a-half-degrees-of-separation/&quot;&gt;Research at Facebook&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;The Highest-Leverage Activities Aren’t Always Deep Work (&lt;a href=&quot;http://www.theeffectiveengineer.com/blog/high-leverage-work-isnt-always-deep&quot;&gt;The Effective Engineer&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Lists are the new search (&lt;a href=&quot;http://ben-evans.com/benedictevans/2016/1/31/lists-are-the-new-search&quot;&gt;Benedict Evans&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Should AI Be Open? (&lt;a href=&quot;http://slatestarcodex.com/2015/12/17/should-ai-be-open/&quot;&gt;Slate Star Codex&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Miscellaneous:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://smile.amazon.com/gp/product/B00VH6B992/ref=abs_brd_tag_dp&quot;&gt;Dang Toasted Coconut Chips&lt;/a&gt; (Caramel Sea Salt). These are extremely delicious!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://smile.amazon.com/Egyptian-Magic-254_165-Skin-Cream/dp/B00N54BDJK/ref=sr_1_1_a_it&quot;&gt;Egyptian Magic Skin Cream&lt;/a&gt;. I use this on my face (combination skin), and my skin has been improving a lot. Message me if you want more info on this!&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;http://unsongbook.com/&quot;&gt;Unsong&lt;/a&gt;&lt;/em&gt; (Scott Alexander’s new fiction)&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Articles:</summary></entry><entry><title type="html">Fundamental Ideas</title><link href="http://localhost:4000/posts/2015/12/08/fundamental-ideas.html" rel="alternate" type="text/html" title="Fundamental Ideas" /><published>2015-12-08T00:00:00-05:00</published><updated>2015-12-08T00:00:00-05:00</updated><id>http://localhost:4000/posts/2015/12/08/fundamental-ideas</id><content type="html" xml:base="http://localhost:4000/posts/2015/12/08/fundamental-ideas.html">&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Linguistic_relativity&quot;&gt;Sapir-Whorf hypothesis&lt;/a&gt; captures a core shortcoming of language, that “the structure of a language affects the ways in which its respective speakers conceptualize their world.” Consequently, connections between phenomena are easily precluded because we use language to describe those phenomena. That is, if we use two different words to describe two different ideas, then by default we conceptualize those two ideas as separate, even if they’re manifestations of the same fundamental idea.&lt;/p&gt;
+
+&lt;p&gt;Fundamental ideas are the bases of &lt;a href=&quot;http://juliayu.me/2015/10/11/analogies.html&quot;&gt;analogies&lt;/a&gt;. They serve as high density encodings of concept clusters, which is really valuable because it’s difficult to think about ideas that don’t have names. Learning fundamental ideas is useful because they essentially allow you to &lt;a href=&quot;https://en.wikipedia.org/wiki/Pareto_principle&quot;&gt;80-20&lt;/a&gt; learning—if you are able to recognize underlying similarities between concepts, then you’ll be able to make deep analogies between new and familiar ideas. Analogously, fundamental ideas aid in reducing new problems to solved/solvable problems. It’s also important to note that there is a subjective spectrum of “fundamentality,” so some fundamental ideas are better at facilitating analogizing than others.&lt;/p&gt;
+
+&lt;p&gt;Below are a few fundamental ideas that I commonly think in terms of, organized approximately by use (more to less frequent). The ideas are formatted similarly to dictionary definitions; they’ll include the word(s), my definition of the fundamental idea, associated affect tags, and sample uses. The examples should be the most useful part.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Gestalt, Emergence, Simpson’s Paradox&lt;/strong&gt;  &lt;br /&gt;
+The idea that the whole is different from the sum of its parts. Unexpected macroscopic behavior can arise from microscopic interactions.&lt;br /&gt;
+&lt;em&gt;Tags: distinctly blurred, perception, mindfulness, multithreaded&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I gain much more enjoyment out of food and music when I am able to perceive their individual components. Focusing on doing this is an easy way for me to get more hedons.&lt;/li&gt;
+  &lt;li&gt;Mindfulness meditation can help you notice the differences between thoughts of the form “I am confused,” “I notice that I am confused,” and “I notice that there is some part of me that is confused.” It allows you to focus on/notice distinct threads (of perception and thought), which helps in clarifying thought and resolving conflict, among others.&lt;/li&gt;
+  &lt;li&gt;Distinguishing between the affect attached to a thing and the thing itself. For instance, I might attach negative affect to pop music, but I should realize that pop music in reality is different from my internal image of pop music. This is a convenient way to monitor and update stereotypes to make sure that they’re maximally effective.&lt;/li&gt;
+  &lt;li&gt;Biases and heuristics—the way we arrive at a solution is not the same as solution itself. The first derivative is not the same as the function. For instance, using rationality techniques might help us come up with solutions to our problems, but we should still also evaluate those solutions independently of those techniques. If I use &lt;a href=&quot;https://docs.google.com/document/d/1oEyvXQXdPDzu72Wv2j5bRfJbB7hV3zrjLMVR_T428oc/edit&quot;&gt;Murphyjitsu&lt;/a&gt; to come up with a plan of action that’s likely to be implemented, I should be sure to consider the plan’s other merits/weaknesses. Internalizing this makes us less susceptible to confirmation bias.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Affordance, Good UI, Systemization&lt;/strong&gt;  &lt;br /&gt;
+When your natural reaction is compatible with reality, when thoughts/systems are conducive to actions, when life is optimized for convenience.&lt;br /&gt;
+&lt;em&gt;Tags: intuition, convenience, yumminess, optimized, alignment&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Following the signs in a well-designed airport and getting to your desired destination. Without thinking, pulling a pull door or pushing a push door.&lt;/li&gt;
+  &lt;li&gt;Regular prefixes/suffixes (e.g., fallible and infallible, not flammable and inflammable); regular verb conjugations (e.g., wait and waited, not sit and sat).&lt;/li&gt;
+  &lt;li&gt;Finding a workout partner to keep you going to the gym. Using &lt;a href=&quot;https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en&quot;&gt;StayFocusd&lt;/a&gt; or &lt;a href=&quot;https://chrome.google.com/webstore/detail/kill-news-feed/hjobfcedfgohjkaieocljfcppjbkglfd?hl=en&quot;&gt;Kill News Feed&lt;/a&gt; to minimize online distractions. Having an accountability partner, using &lt;a href=&quot;https://www.beeminder.com/&quot;&gt;Beeminder&lt;/a&gt;, or being around similarly motivated people to keep you on top of your goals. This fundamental idea allows us to see that problem of systemization is fundamentally the same as the problem of good UI—both are about guiding someone (yourself or a user) into a correct set of default/intuitive actions.&lt;/li&gt;
+  &lt;li&gt;Removing mental blocks that prevent good habits (e.g., gaining a S1 understanding that communication is important allows you to develop good communication habits).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Frames, Affect, Connotation, Priming&lt;/strong&gt;&lt;br /&gt;
+A heuristic for heuristics; the choice of one set of system 1 heuristics over another. The lenses we use to think and interpret experiences.&lt;br /&gt;
+&lt;em&gt;Tags: context, valence, ethos/logos/pathos, urge propagation, tradeoffs&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Two frames for viewing procrastination: procrastinating as having free time in the present (privileging present you) vs. not procrastinating as making free time for the future (privileging future you). Taking on these lenses reduces the decision of whether or not to procrastinate to the problem of assigning preferences to present and future versions of yourself.&lt;/li&gt;
+  &lt;li&gt;Taking an Uber as saving time and gaining comfort vs. taking a subway as saving money.&lt;/li&gt;
+  &lt;li&gt;Cooperation vs. defection; growth mindset vs. fixed mindset; agency vs. impotence; dichotomy vs. spectrum.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Shibboleth, Schelling Point, Plausible Deniability&lt;/strong&gt;&lt;br /&gt;
+The second (implicit) layer of information transferred by communication (or lack of communication).&lt;br /&gt;
+&lt;em&gt;Tags: mutual understanding, information transfer, Aumann’s agreement theorem, rational agents&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Being able to explain an advanced concept simply is a good Shibboleth of deep understanding.&lt;/li&gt;
+  &lt;li&gt;We didn’t discuss which side of the student center to meet at before an event, but we all independently went to the side closest to where the event was taking place. Consciously considering various degrees of communication allows for more &lt;a href=&quot;http://juliayu.me/2015/08/22/precision-of-language.html&quot;&gt;precise language&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;For effective communication, your implicit and explicit messages should be aligned. For instance, your body language/tone should be aligned with the content of your message.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;80-20 Rule (Pareto Principle), Proxy&lt;/strong&gt; &lt;br /&gt;
+Putting in less effort to get a “good enough” result. Finding potential arbitrages in your life.&lt;br /&gt;
+&lt;em&gt;Tags: hacking, goal factoring, efficiency, fungibility&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If it takes about 3 h of work/week to get a B in a class and 15 h of work/week to get an A, and I care about passing, then I can 80-20 the class by aiming to work 3 h/week. Internalizing this fundamental idea encourages the frames of optimizing and action-goal aligning.&lt;/li&gt;
+  &lt;li&gt;If you believe that inside jokes are a proxy for closeness in a friendship, and you value closeness, then you can 80-20 social encounters by maximizing the number of chances for inside jokes (and the situations that create them).&lt;/li&gt;
+  &lt;li&gt;If typing speed is a bottleneck for you in many tasks (writing emails, writing code, writing blog posts, etc.), improving your typing speed and/or getting a new keyboard are efficient ways to hack your productivity. Alternatively, you could come up with better encoding schemes or learn keyboard shortcuts to solve the same problem.&lt;/li&gt;
+&lt;/ol&gt;</content><summary type="html">The Sapir-Whorf hypothesis captures a core shortcoming of language, that “the structure of a language affects the ways in which its respective speakers conceptualize their world.” Consequently, connections between phenomena are easily precluded because we use language to describe those phenomena. That is, if we use two different words to describe two different ideas, then by default we conceptualize those two ideas as separate, even if they’re manifestations of the same fundamental idea.</summary></entry><entry><title type="html">October’s Links</title><link href="http://localhost:4000/posts/2015/11/13/octobers-links.html" rel="alternate" type="text/html" title="October's Links" /><published>2015-11-13T00:00:00-05:00</published><updated>2015-11-13T00:00:00-05:00</updated><id>http://localhost:4000/posts/2015/11/13/octobers-links</id><content type="html" xml:base="http://localhost:4000/posts/2015/11/13/octobers-links.html">&lt;p&gt;&lt;em&gt;What I’ve been reading this month:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://www.scottaaronson.com/blog/?p=2410&quot;&gt;great post&lt;/a&gt; by Scott Aaronson on plausible deniability and Aumann’s agreement theorem. Related: a &lt;a href=&quot;http://slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/&quot;&gt;short story&lt;/a&gt; by Scott Alexander on the blue eyes riddle.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/education/2004/may/04/research.highereducation&quot;&gt;Research on incompetence&lt;/a&gt;: “The incompetent don’t perform up to speed; don’t recognise their lack of competence; and don’t even recognise the competence of other people.”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.wired.com/2015/10/scientists-can-now-predict-intelligence-brain-activity/&quot;&gt;Quantifying fluid intelligence&lt;/a&gt; using MRI.&lt;/li&gt;
+  &lt;li&gt;Case study on &lt;a href=&quot;https://en.wikipedia.org/wiki/Pruitt%E2%80%93Igoe&quot;&gt;architecture and social development&lt;/a&gt; in mid-20th century St. Louis.&lt;/li&gt;
+  &lt;li&gt;Insights into &lt;a href=&quot;http://texting.tips/&quot;&gt;pick-up artistry/texting&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Advances in camera tech, the “first &lt;a href=&quot;http://m.phys.org/news/2015-10-multi-aperture-camera.html&quot;&gt;multi-aperture computational camera&lt;/a&gt;.”&lt;/li&gt;
+  &lt;li&gt;So fascinating to read about drastically different lifestyles—in this case, those of &lt;a href=&quot;http://www.bloomberg.com/news/features/2015-10-01/children-of-the-yuan-percent-everyone-hates-china-s-rich-kids&quot;&gt;super rich Chinese children&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://www.privateinternetaccess.com/blog/2015/10/in-china-your-credit-score-is-now-affected-by-your-political-opinions-and-your-friends-political-opinions/&quot;&gt;social credit score&lt;/a&gt; for political alignment in China; apparently this will become mandatory in 2020.&lt;/li&gt;
+  &lt;li&gt;Interview with the founder of Coursera on &lt;a href=&quot;http://www.huffingtonpost.com.au/2015/05/13/andrew-ng_n_7267682.html&quot;&gt;learning, personal missions, automation, and other interesting topics&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;So awesome—”a &lt;a href=&quot;http://www.sciencedaily.com/releases/2015/02/150204144517.htm&quot;&gt;low-cost smartphone accessory&lt;/a&gt; that…simultaneously detects three infectious disease markers—HIV and syphilis—from a finger prick of blood in just 15 minutes.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Other things I’ve been enjoying:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Matrix&quot;&gt;The Matrix&lt;/a&gt;—I might be the last person interested in AI to watch this. I don’t have too much to say, but I did enjoy it (despite being extremely confused when Trinity revived Neo with a kiss). And now I’ll be able to understand references to/memes of the movie.&lt;/li&gt;
+  &lt;li&gt;For anyone interested in rationality, Julia Galef makes some really great and accessible &lt;a href=&quot;https://www.youtube.com/channel/UCz-RZblnhjXK_krP1jDybeQ&quot;&gt;videos on the topic&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;If you can beat my high score (659) on this &lt;a href=&quot;http://stuffucanuse.com/online_game/man-chases-cursor/man-chases-cursor.html&quot;&gt;terrible flash game&lt;/a&gt;, congratulations.&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">What I’ve been reading this month:</summary></entry><entry><title type="html">Analogies</title><link href="http://localhost:4000/posts/2015/10/11/analogies.html" rel="alternate" type="text/html" title="Analogies" /><published>2015-10-11T00:00:00-04:00</published><updated>2015-10-11T00:00:00-04:00</updated><id>http://localhost:4000/posts/2015/10/11/analogies</id><content type="html" xml:base="http://localhost:4000/posts/2015/10/11/analogies.html">&lt;p&gt;Analogies make the world a better place. Here are two (related) applications:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning/Understanding&lt;/strong&gt;&lt;br /&gt;
+A good analogy expedites and facilitates the learning process. I think of learning/understanding as the 2-step process of acquiring knowledge and linking knowledge—adding nodes and (re)drawing edges in a graph, respectively. Analogies strengthen connections and build on previous mental models. Also, updating knowledge costs less mentally than starting to learn from scratch; it’s easier to add onto an existing framework than to build the framework itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;br /&gt;
+Analogies are kind of like symbols. A symbol is something that maps to an idea. An analogy is an idea that maps to another idea, or a type of logic that maps to another type of logic. Analogies are a common language; they help reduce &lt;a href=&quot;http://wiki.lesswrong.com/wiki/Inferential_distance&quot;&gt;inferential distance&lt;/a&gt;. For instance, if&lt;sup&gt;1&lt;/sup&gt; I know thermodynamics and Michael knows &lt;a href=&quot;https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory&quot;&gt;thermodynamics and information theory&lt;/a&gt;, he can explain information-theoretic entropy to me in the language of thermodynamic entropy.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; This is &lt;em&gt;totally&lt;/em&gt; hypothetical.&lt;/p&gt;</content><summary type="html">Analogies make the world a better place. Here are two (related) applications:</summary></entry><entry><title type="html">September’s Links</title><link href="http://localhost:4000/posts/2015/10/01/septembers-links.html" rel="alternate" type="text/html" title="September's Links" /><published>2015-10-01T00:00:00-04:00</published><updated>2015-10-01T00:00:00-04:00</updated><id>http://localhost:4000/posts/2015/10/01/septembers-links</id><content type="html" xml:base="http://localhost:4000/posts/2015/10/01/septembers-links.html">&lt;p&gt;&lt;em&gt;What I’ve been reading this month:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;a href=&quot;http://techcrunch.com/2015/08/31/eatsa/&quot;&gt;new restaurant&lt;/a&gt; experience. No lines, no cashiers, no (visible) workers. Another exciting aspect: rewards for returning customers.&lt;/li&gt;
+  &lt;li&gt;A great &lt;a href=&quot;http://nautil.us/issue/28/2050/the-philosopher-who-says-we-should-play-god&quot;&gt;interview with philosopher Julian Savulescu&lt;/a&gt; on genetic engineering, cloning, and the future of humanity.&lt;/li&gt;
+  &lt;li&gt;I might be too excited about this &lt;a href=&quot;http://www.wired.com/2015/09/real-plan-replace-londons-tube-moving-walkways/&quot;&gt;plan to replace the Tube with moving sidewalks&lt;/a&gt;. (But it’s so cool!!)&lt;/li&gt;
+  &lt;li&gt;Predicting the relationship between &lt;a href=&quot;http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them&quot;&gt;AI and genetic modification&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;A look into the development of Apple’s new &lt;a href=&quot;http://www.bloomberg.com/features/2015-how-apple-built-3d-touch-iphone-6s/&quot;&gt;3D touch&lt;/a&gt; feature.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices&quot;&gt;A move in the right direction&lt;/a&gt;—Harvard “encouraged its faculty members to make their research freely available through open access journals and to resign from publications that keep articles behind paywalls.”&lt;/li&gt;
+  &lt;li&gt;Japan’s education minister urges national universities to &lt;a href=&quot;https://www.timeshighereducation.com/news/social-sciences-and-humanities-faculties-close-japan-after-ministerial-decree&quot;&gt;abolish social sciences and humanities faculties&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Insights on vegetarianism—&lt;a href=&quot;http://slatestarcodex.com/2015/09/23/vegetarianism-for-meat-eaters/&quot;&gt;really helpful&lt;/a&gt; for people conflicted between the moral implications of eating meat and the difficulty of becoming a vegetarian.&lt;/li&gt;
+  &lt;li&gt;A response to the &lt;a href=&quot;http://techcrunch.com/2015/09/21/a-750-pill-and-a-founder-who-doesnt-know-when-to-stop-tweeting/&quot;&gt;$750 Daraprim pill&lt;/a&gt; that investigates the broader issue of &lt;a href=&quot;http://slatestarcodex.com/2015/09/24/the-problems-with-generic-medications-go-deeper-than-one-company/&quot;&gt;how drug monopolies are able to exist&lt;/a&gt; in the first place.&lt;/li&gt;
+  &lt;li&gt;Breaking news: &lt;a href=&quot;http://www.wired.com/2015/09/nasa-salty-liquid-water-on-mars/12&quot;&gt;water on Mars&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;Edward &lt;a href=&quot;http://www.theverge.com/2015/9/21/9363863/edward-snowden-alien-encryption&quot;&gt;Snowden’s take on the Fermi paradox&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Surprise upset at the US Open—&lt;a href=&quot;http://www.usatoday.com/story/sports/tennis/2015/09/11/serena-williams-lost-her-way-mentally-tactically-us-open-tennis/72101826/&quot;&gt;Serena Williams lost her chance at a Grand Slam&lt;/a&gt; in the semifinals.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mobile.nytimes.com/2015/09/09/technology/intel-to-end-sponsorship-of-science-talent-search.html&quot;&gt;RIP, Intel STS&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;“[B]ring[ing] the &lt;a href=&quot;http://bits.blogs.nytimes.com/2015/09/02/bringing-the-stethoscope-into-the-smartphone-era/&quot;&gt;stethoscope into the 21st century&lt;/a&gt;.”&lt;/li&gt;
+  &lt;li&gt;“&lt;a href=&quot;http://www.utilitarianism.com/greg-egan/Reasons-To-Be-Cheerful.pdf&quot;&gt;Reasons To Be Cheerful&lt;/a&gt;” (Greg Egan)—A sci-fi short story that questions the importance of emotional autonomy in an engaging way. I was a little bit disappointed with the ending but otherwise really enjoyed the plot. Also, I get abnormally excited whenever I read something that has a character named Julia.&lt;sup&gt;1&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zerotoonebook.com/&quot;&gt;Zero to One&lt;/a&gt;&lt;sup&gt;2&lt;/sup&gt; (Peter Thiel and Blake Masters)—Lots of interesting thoughts and succinct ways of communicating big ideas. Diverse range of evidence and anecdotes. I’ll probably reread this someday soon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Miscellaneous:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Did other people know that &lt;a href=&quot;https://www.tepwireless.com/faq/&quot;&gt;pocket wifi&lt;/a&gt; is a thing?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.photofeeler.com/&quot;&gt;PhotoFeeler&lt;/a&gt;, a generalized Hot or Not.&lt;/li&gt;
+  &lt;li&gt;I’m enrolled in an architecture class this semester. Here’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Louvre_Abu_Dhabi&quot;&gt;something beautiful&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; h/t Sonia&lt;br /&gt;
+&lt;sup&gt;2&lt;/sup&gt; Thanks to &lt;a href=&quot;http://jonathanzong.com/&quot;&gt;Jonathan&lt;/a&gt; for lending me his copy!&lt;/p&gt;</content><summary type="html">What I’ve been reading this month:</summary></entry></feed>
